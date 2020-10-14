@@ -1,0 +1,98 @@
+body{
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+
+  }
+
+  header {
+    background-color: blue;
+     font: 20px Montserrat, sans-serif;
+     line-height: 1.8;
+     color: rgb(29, 128, 158);
+     margin: 0%;
+     position: relative;
+     width: 100%;
+     height: 100%;
+     top: 0%;
+ 
+   }
+
+   #boximg{
+    border: 15px solid black;
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    left: 82%;
+    width: 300px;
+    height: 300px;
+    float: right;
+    
+  }
+
+  .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+
+  .navbar {
+    padding-top: 10px;
+    padding: 15%;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    
+  }
+  .navbar-n  li a:hover {
+    color: black !important;
+    
+  }
+  .navbar-n{
+    letter-spacing: 4px;
+    word-spacing: 200px;
+
+  }
+
+  main h1{
+    font: 35px Montserrat, sans-serif;
+    line-height: 2;
+    border: 0;
+    color: black;
+  }
+  main h2{
+    font: 35px Montserrat, sans-serif;
+    line-height: 2;
+    border: 0;
+    color: black;
+  }
+
+  #canais{
+      background-color: rgb(32, 36, 36);
+      border: 5px solid black;
+
+  }
+  #sites{
+    background-color: rgb(78, 26, 88);
+    color: white;
+    margin-top: -1%;
+    border: 5px solid black;
+
+  }
+  main h2{
+    color: white;
+
+  }
+
+  main ul{
+      font-size: 30px;
+  }
+
+  footer{
+    background-color: black;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    border: 5px solid rgb(97, 95, 95);
+  }

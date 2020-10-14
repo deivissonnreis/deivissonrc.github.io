@@ -1,0 +1,120 @@
+body{
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+  }
+  .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+
+  #boximg{
+    border: 15px solid black;
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    left: 82%;
+    width: 300px;
+    height: 300px;
+    float: right;
+    
+  }
+
+  .bg-1 { 
+    background-color: #971ecf; 
+    color: white;
+    margin-top: 0%;
+    position: relative;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+  }
+  .bg-2 { 
+    background-color: #eeff02;
+    margin-top: 0% ;
+    font: 35px Montserrat, sans-serif;
+  }
+
+  .bg-3{
+    background-color: #eeff02;
+    color: rgb(0, 0, 0);
+    margin-top: -1% ;
+ }
+ #eu2{
+ 
+     border: 5px solid #eef778;
+     font: 17px Montserrat, sans-serif;
+     
+ }
+
+  #eu{
+    background-color: #ac21ec;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    border: 5px solid #c965f8;
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    margin: 0%;
+    padding: 3%;
+  }
+  
+ header {
+   background-color: blue;
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: rgb(29, 128, 158);
+    margin: 0%;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+
+  }
+  main h2{
+    font: 35px Montserrat, sans-serif;
+    line-height: 2;
+    border: 0;
+    
+  }
+    
+.navbar {
+    padding-top: 10px;
+    padding: 15%;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    
+  }
+  .navbar-n  li a:hover {
+    color: black !important;
+    
+  }
+  .navbar-n{
+    letter-spacing: 4px;
+    word-spacing: 200px;
+
+  }
+  #fotos{
+    background-color: #181616;
+    color: aqua;
+    font: 35px Montserrat, sans-serif;
+    margin-top: -5px;
+  }
+  #seriestext{
+    color: aqua;
+    font: 35px Montserrat, sans-serif;
+    background-color: #181616;
+  }
+  #series{
+    background-color: #181616;
+    margin-top: -1%;
+  }
+  footer{
+    background-color: black;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    border: 5px solid rgb(97, 95, 95);
+  }
