@@ -1,2 +1,83 @@
 # deivissonrc.github.io
 First Web Site
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/curriculostyles.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <title>Curriculo</title>
+</head>
+<header class="navbar navbar-default">
+    <nav class="collapse navbar-collapse">
+        <h1 class="navbar-header">Deivisson Reis</h1>
+        <ul class="nav navbar-n container">
+            <li class="container-md-2"><a href="index.html">Ínicio</a></li>
+            <li class="container-md-2"><a href="curriculo.html">Currículo</a></li>
+            <li class="container-md-2"><a href="link.html">Links</a></li>
+        </ul>
+    </nav>
+</header>
+<body>
+    <main>
+        <figure class="container">
+        <img id="boximg" src="img/EU.jpg"> 
+      </figure>
+      <h1 class="container-fluid text-center"><strong>Meu Curriculo:</strong></h1>
+      <ul class="container">
+          <li><strong>Dados Pessoais:</strong></li>
+            <article>
+                <p><strong>Endereço:</strong> Rua Antônio Carlos Magalhães, 82</p>
+                <p><strong>Telefone:</strong> (71) 99652-9764 (Vivo)</p>
+                <p><strong>Email:</strong> deivissonreis@hotmail.com</p>
+                <p><strong>Estado Civil:</strong> Solteiro</p>
+                <p><strong>Data de Nascimento:</strong> 28/01/1999</p>
+                <p><strong>Nacionalidade:</strong> Brasileiro</p>
+            </article>
+
+          <li><strong>Objetivo:</strong></li>
+             <article>
+                 <p><strong>Obter experiência profissional na área de TI.</strong></p>
+             </article>
+
+          <li><strong>Escolaridade:</strong></li>
+            <article>
+             <p><strong>- Curso Superior - Graduação - Incompleto | Sistema da Informação , UNIFACS, 5º Semestre, Noturno</strong></p>
+            </article>
+
+          <li><strong>Cursos:</strong></li>
+            <article>
+                <p>- Java/Android Básico</p>
+                <p>- Microsoft Office Básico/Intermediário</p>
+                <p>- Informatica Intermediário</p>
+                <p>- Inglês Intermediário</p>
+            </article>
+
+          <li><strong>Experiências Profissionais:</strong></li>
+            <article>
+                <p><strong>- Em busca do meu primeiro emprego.</strong></p>
+            </article>
+
+          <li><strong>Qualificações e informações adicionais:</strong></li>
+            <article>
+                <p>- Tenho experiência não profissional na área de informática, Manutenção de computadores (troca de peças, análise de possíveis peças defeituosas e testes) inglês Básico-Intermediário, tenho Disponibilidade de Horário de manhã ou á tarde.</p>
+            </article>          
+      </ul>
+    </main>
+    <footer class="container-fluid text-center">
+        <article>- Email: deivissonnreis@hotmail.com</article>
+        <article>- Whatsapp: 71 9 9652-9764</article>
+        &copy; Deivisson Reis 2020.
+    </footer>
+    
+</body>
+</html>
